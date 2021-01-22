@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacionLeerJson</string>
+    <string name="producto_lbl_id">Id producto</string>
+    <string name="producto_lbl_nombre">Nombre</string>
+    <string name="producto_lbl_preciomin">Preciomin</string>
+    <string name="producto_lbl_preciomax">Preciomax</string>
+
+</resources>
